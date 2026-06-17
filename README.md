@@ -18,7 +18,7 @@ I am focused on **full-stack web development, backend engineering, database-driv
 
 - 🔭 Currently working on full-stack and academic software projects  
 - 🌱 Learning advanced web technologies, backend architecture, and software engineering  
-- 💻 Interested in TypeScript, NestJS, React, PHP, C#, SQL, and modern web apps  
+- 💻 Interested in TypeScript, NestJS, React, SQL, and modern web apps  
 - 🎯 Goal: become a skilled software developer with strong project-building ability  
 
 ---
