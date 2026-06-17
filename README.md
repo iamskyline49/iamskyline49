@@ -80,15 +80,6 @@ Computer graphics project using C++ and OpenGL/GLUT.
 
 </div>
 
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iamskyline49&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
 
 ---
 
