@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Prottoy+Sarker+Diganto;CSE+Student+%7C+Full-Stack+Developer;TypeScript+%7C+NestJS+%7C+React+%7C+PHP+%7C+C%23;Building+real-world+software+projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Prottoy+Sarker+Diganto;CSE+Student+%7C+Full-Stack+Developer;TypeScript+%7C+NestJS+%7C+React;Building+real-world+software+projects" alt="Typing SVG" />
 
 <br/>
 
@@ -27,7 +27,7 @@ I am focused on **full-stack web development, backend engineering, database-driv
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,nodejs,php,html,css,cs,cpp,python,mysql,postgres,git,github,vscode,figma,postman,linux" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,nodejs,html,css,cpp,mysql,postgres,git,githubpostman" />
 
 </div>
 
